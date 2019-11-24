@@ -1,0 +1,35 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  font: 14px/1.5 "Helvetica", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+
+.wrapper {
+  width:980px;
+}
+
+header {
+  width:250px;
+}
+
+a.hdr:hover, a.hdr:active {
+  font-weight:400;
+  text-decoration:underline;
+}
+
+section {
+  width:660px;
+}
+
+sectionnosidebar {
+  width:980px;
+}
+
+footer {
+  width:250px;
+}
+

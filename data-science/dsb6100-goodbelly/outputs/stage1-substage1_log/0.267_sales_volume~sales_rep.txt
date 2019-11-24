@@ -1,0 +1,12 @@
+X: sales_rep
+Y: sales_volume
+
+R2: 0.267
+
+full equation: Y = B0 + B1(SALES_REP)
+
+no. of terms: 2
+
+        term   coef    p   sig  type
+0  Intercept  5.639  0.0  True  pure
+1  sales_rep  0.057  0.0  True  pure

@@ -1,0 +1,14 @@
+X: demo * sales_rep
+Y: sales_volume
+
+R2: 0.466
+
+full equation: Y = B0 + B1(SALES_REP) + B2(DEMO) + B3(DEMO.SALES_REP)
+
+no. of terms: 4
+
+             term      coef      p   sig  type
+0       Intercept  178.9739  0.000  True  pure
+1            demo  108.0416  0.000  True  pure
+2  demo:sales_rep   31.4869  0.003  True  intr
+3       sales_rep   30.6181  0.000  True  pure

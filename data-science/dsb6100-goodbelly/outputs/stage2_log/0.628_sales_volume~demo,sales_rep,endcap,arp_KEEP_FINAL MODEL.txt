@@ -1,0 +1,28 @@
+X: demo * sales_rep * endcap * arp
+Y: sales_volume
+
+R2: 0.628
+
+full equation: Y = B0 + B1(SALES_REP) + B2(ENDCAP) + B3(DEMO) + B4(ARP) + B5(SALES_REP.ENDCAP.ARP) + B6(SALES_REP.ENDCAP) + B7(SALES_REP.ARP) + B8(ENDCAP.ARP) + B9(DEMO.SALES_REP.ENDCAP.ARP) + B10(DEMO.SALES_REP.ENDCAP) + B11(DEMO.SALES_REP.ARP) + B12(DEMO.SALES_REP) + B13(DEMO.ENDCAP.ARP) + B14(DEMO.ENDCAP) + B15(DEMO.ARP)
+
+condensed equation w/o insignificant terms: Y = B0 + B1(SALES_REP) + B2(ENDCAP) + B3(DEMO) + B4(ARP) + B5(ENDCAP.ARP) + B6(DEMO.ENDCAP.ARP) + B7(DEMO.ENDCAP)
+
+no. of terms: 16
+
+                         term    coef      p    sig  type
+0                   Intercept  6.7856  0.000   True  pure
+1                        demo  0.1701  0.006   True  pure
+2                      endcap  0.1473  0.000   True  pure
+3                   sales_rep  0.1443  0.033   True  pure
+4                 demo:endcap  0.0264  0.015   True  intr
+5             demo:endcap:arp -0.0164  0.029   True  intr
+6                  endcap:arp -0.0849  0.002   True  intr
+7                         arp -0.6020  0.000   True  pure
+8            sales_rep:endcap  0.0249  0.062  False  intr
+9              demo:sales_rep  0.0228  0.089  False  intr
+10      demo:sales_rep:endcap  0.0036  0.159  False  intr
+11  demo:sales_rep:endcap:arp -0.0019  0.293  False  intr
+12         demo:sales_rep:arp -0.0143  0.140  False  intr
+13       sales_rep:endcap:arp -0.0149  0.134  False  intr
+14                   demo:arp -0.0626  0.142  False  intr
+15              sales_rep:arp -0.0719  0.151  False  intr

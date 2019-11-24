@@ -1,0 +1,44 @@
+X: demo * sales_rep * endcap * arp * demo13
+Y: sales_volume
+
+R2: 0.632
+
+full equation: Y = B0 + B1(SALES_REP) + B2(ENDCAP) + B3(DEMO13) + B4(DEMO) + B5(ARP) + B6(SALES_REP.ENDCAP.DEMO13) + B7(SALES_REP.ENDCAP.ARP.DEMO13) + B8(SALES_REP.ENDCAP.ARP) + B9(SALES_REP.ENDCAP) + B10(SALES_REP.DEMO13) + B11(SALES_REP.ARP.DEMO13) + B12(SALES_REP.ARP) + B13(ENDCAP.DEMO13) + B14(ENDCAP.ARP.DEMO13) + B15(ENDCAP.ARP) + B16(DEMO.SALES_REP.ENDCAP.DEMO13) + B17(DEMO.SALES_REP.ENDCAP.ARP.DEMO13) + B18(DEMO.SALES_REP.ENDCAP.ARP) + B19(DEMO.SALES_REP.ENDCAP) + B20(DEMO.SALES_REP.DEMO13) + B21(DEMO.SALES_REP.ARP.DEMO13) + B22(DEMO.SALES_REP.ARP) + B23(DEMO.SALES_REP) + B24(DEMO.ENDCAP.DEMO13) + B25(DEMO.ENDCAP.ARP.DEMO13) + B26(DEMO.ENDCAP.ARP) + B27(DEMO.ENDCAP) + B28(DEMO.DEMO13) + B29(DEMO.ARP.DEMO13) + B30(DEMO.ARP) + B31(ARP.DEMO13)
+
+condensed equation w/o insignificant terms: Y = B0 + B1(ENDCAP) + B2(DEMO) + B3(ARP) + B4(ENDCAP.ARP) + B5(DEMO.ENDCAP)
+
+no. of terms: 32
+
+                                term      coef      p    sig  type
+0                          Intercept  6.778000  0.000   True  pure
+1                               demo  0.166500  0.019   True  pure
+2                             endcap  0.141000  0.001   True  pure
+3                        demo:endcap  0.025900  0.038   True  intr
+4                         endcap:arp -0.079500  0.006   True  intr
+5                                arp -0.581000  0.000   True  pure
+6                          sales_rep  0.154000  0.082  False  pure
+7                             demo13  0.051700  0.548  False  pure
+8                     demo:sales_rep  0.029100  0.109  False  intr
+9                   sales_rep:endcap  0.025400  0.134  False  intr
+10                  sales_rep:demo13  0.010600  0.634  False  intr
+11             demo:sales_rep:endcap  0.004500  0.187  False  intr
+12                   demo:arp:demo13  0.004100  0.822  False  intr
+13                 endcap:arp:demo13  0.001700  0.880  False  intr
+14             demo:sales_rep:demo13  0.001200  0.808  False  intr
+15            demo:endcap:arp:demo13  0.001000  0.741  False  intr
+16           sales_rep:endcap:demo13  0.000800  0.853  False  intr
+17      demo:sales_rep:endcap:demo13  0.000100  0.867  False  intr
+18  demo:sales_rep:endcap:arp:demo13 -0.000059  0.927  False  intr
+19       sales_rep:endcap:arp:demo13 -0.000400  0.904  False  intr
+20                     endcap:demo13 -0.000500  0.974  False  intr
+21         demo:sales_rep:arp:demo13 -0.000500  0.882  False  intr
+22                demo:endcap:demo13 -0.001000  0.811  False  intr
+23                       demo:demo13 -0.001900  0.942  False  intr
+24         demo:sales_rep:endcap:arp -0.002500  0.316  False  intr
+25              sales_rep:arp:demo13 -0.005500  0.737  False  intr
+26              sales_rep:endcap:arp -0.015100  0.240  False  intr
+27                   demo:endcap:arp -0.015800  0.064  False  intr
+28                demo:sales_rep:arp -0.018800  0.158  False  intr
+29                        arp:demo13 -0.020800  0.728  False  intr
+30                          demo:arp -0.057200  0.236  False  intr
+31                     sales_rep:arp -0.077800  0.245  False  intr

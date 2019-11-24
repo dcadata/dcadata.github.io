@@ -1,0 +1,11 @@
+theme: jekyll-theme-minimal
+
+title: Devon Ankar
+author: Devon Ankar
+description: Data Science – Analytics – Continuous Improvement
+show_downloads: false
+
+email: devon@ankar.io
+
+plugins:
+  - jekyll-redirect-from

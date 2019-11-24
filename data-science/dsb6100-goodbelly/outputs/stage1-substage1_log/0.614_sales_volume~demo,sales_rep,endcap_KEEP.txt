@@ -1,0 +1,18 @@
+X: demo * sales_rep * endcap
+Y: sales_volume
+
+R2: 0.614
+
+full equation: Y = B0 + B1(SALES_REP) + B2(ENDCAP) + B3(DEMO) + B4(SALES_REP.ENDCAP) + B5(DEMO.SALES_REP.ENDCAP) + B6(DEMO.SALES_REP) + B7(DEMO.ENDCAP)
+
+no. of terms: 8
+
+                    term    coef      p   sig  type
+0              Intercept  5.9374  0.000  True  pure
+1                   demo  0.0831  0.000  True  pure
+2              sales_rep  0.0418  0.000  True  pure
+3                 endcap  0.0277  0.000  True  pure
+4       sales_rep:endcap  0.0042  0.000  True  intr
+5            demo:endcap  0.0032  0.000  True  intr
+6         demo:sales_rep  0.0030  0.005  True  intr
+7  demo:sales_rep:endcap  0.0008  0.000  True  intr

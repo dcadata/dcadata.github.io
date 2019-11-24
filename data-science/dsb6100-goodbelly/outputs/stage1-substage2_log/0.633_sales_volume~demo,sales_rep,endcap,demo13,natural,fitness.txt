@@ -1,0 +1,76 @@
+X: demo * sales_rep * endcap * demo13 * natural * fitness
+Y: sales_volume
+
+R2: 0.633
+
+full equation: Y = B0 + B1(SALES_REP) + B2(NATURAL) + B3(FITNESS) + B4(ENDCAP) + B5(DEMO13) + B6(DEMO) + B7(SALES_REP.NATURAL.FITNESS) + B8(SALES_REP.NATURAL) + B9(SALES_REP.FITNESS) + B10(SALES_REP.ENDCAP.NATURAL.FITNESS) + B11(SALES_REP.ENDCAP.NATURAL) + B12(SALES_REP.ENDCAP.FITNESS) + B13(SALES_REP.ENDCAP.DEMO13.NATURAL.FITNESS) + B14(SALES_REP.ENDCAP.DEMO13.NATURAL) + B15(SALES_REP.ENDCAP.DEMO13.FITNESS) + B16(SALES_REP.ENDCAP.DEMO13) + B17(SALES_REP.ENDCAP) + B18(SALES_REP.DEMO13.NATURAL.FITNESS) + B19(SALES_REP.DEMO13.NATURAL) + B20(SALES_REP.DEMO13.FITNESS) + B21(SALES_REP.DEMO13) + B22(NATURAL.FITNESS) + B23(ENDCAP.NATURAL.FITNESS) + B24(ENDCAP.NATURAL) + B25(ENDCAP.FITNESS) + B26(ENDCAP.DEMO13.NATURAL.FITNESS) + B27(ENDCAP.DEMO13.NATURAL) + B28(ENDCAP.DEMO13.FITNESS) + B29(ENDCAP.DEMO13) + B30(DEMO.SALES_REP.NATURAL.FITNESS) + B31(DEMO.SALES_REP.NATURAL) + B32(DEMO.SALES_REP.FITNESS) + B33(DEMO.SALES_REP.ENDCAP.NATURAL.FITNESS) + B34(DEMO.SALES_REP.ENDCAP.NATURAL) + B35(DEMO.SALES_REP.ENDCAP.FITNESS) + B36(DEMO.SALES_REP.ENDCAP.DEMO13.NATURAL.FITNESS) + B37(DEMO.SALES_REP.ENDCAP.DEMO13.NATURAL) + B38(DEMO.SALES_REP.ENDCAP.DEMO13.FITNESS) + B39(DEMO.SALES_REP.ENDCAP.DEMO13) + B40(DEMO.SALES_REP.ENDCAP) + B41(DEMO.SALES_REP.DEMO13.NATURAL.FITNESS) + B42(DEMO.SALES_REP.DEMO13.NATURAL) + B43(DEMO.SALES_REP.DEMO13.FITNESS) + B44(DEMO.SALES_REP.DEMO13) + B45(DEMO.SALES_REP) + B46(DEMO.NATURAL.FITNESS) + B47(DEMO.NATURAL) + B48(DEMO.FITNESS) + B49(DEMO.ENDCAP.NATURAL.FITNESS) + B50(DEMO.ENDCAP.NATURAL) + B51(DEMO.ENDCAP.FITNESS) + B52(DEMO.ENDCAP.DEMO13.NATURAL.FITNESS) + B53(DEMO.ENDCAP.DEMO13.NATURAL) + B54(DEMO.ENDCAP.DEMO13.FITNESS) + B55(DEMO.ENDCAP.DEMO13) + B56(DEMO.ENDCAP) + B57(DEMO.DEMO13.NATURAL.FITNESS) + B58(DEMO.DEMO13.NATURAL) + B59(DEMO.DEMO13.FITNESS) + B60(DEMO.DEMO13) + B61(DEMO13.NATURAL.FITNESS) + B62(DEMO13.NATURAL) + B63(DEMO13.FITNESS)
+
+condensed equation w/o insignificant terms: Y = B0 + B1(DEMO)
+
+no. of terms: 64
+
+                                            term      coef      p    sig  type
+0                                      Intercept  5.899300  0.000   True  pure
+1                                           demo  0.072500  0.000   True  pure
+2                                        natural  0.062900  0.290  False  pure
+3                                         demo13  0.040600  0.072  False  pure
+4                                      sales_rep  0.028400  0.052  False  pure
+5                              sales_rep:natural  0.019600  0.241  False  intr
+6                                         endcap  0.017500  0.083  False  pure
+7                                   demo:natural  0.017200  0.241  False  intr
+8                                natural:fitness  0.016800  0.543  False  intr
+9                                 endcap:natural  0.012500  0.237  False  intr
+10                                   demo:demo13  0.006100  0.184  False  intr
+11                              sales_rep:demo13  0.005600  0.160  False  intr
+12                                 endcap:demo13  0.005000  0.162  False  intr
+13                        demo:sales_rep:natural  0.004300  0.200  False  intr
+14                     sales_rep:natural:fitness  0.003800  0.525  False  intr
+15                           demo:endcap:natural  0.003600  0.154  False  intr
+16                      sales_rep:endcap:natural  0.003300  0.326  False  intr
+17                              sales_rep:endcap  0.001800  0.518  False  intr
+18                          demo:natural:fitness  0.001200  0.847  False  intr
+19                         demo:sales_rep:demo13  0.000900  0.224  False  intr
+20                       sales_rep:endcap:demo13  0.000900  0.219  False  intr
+21                 demo:sales_rep:endcap:natural  0.000800  0.223  False  intr
+22                            demo:endcap:demo13  0.000700  0.350  False  intr
+23                                   demo:endcap  0.000500  0.820  False  intr
+24                         demo:sales_rep:endcap  0.000300  0.535  False  intr
+25                         endcap:demo13:fitness  0.000200  0.944  False  intr
+26                                demo:sales_rep  0.000100  0.965  False  intr
+27                  demo:sales_rep:endcap:demo13  0.000100  0.283  False  intr
+28                 demo:sales_rep:endcap:fitness  0.000100  0.537  False  intr
+29          demo:sales_rep:endcap:demo13:fitness  0.000010  0.873  False  intr
+30                    demo:endcap:demo13:fitness -0.000017  0.961  False  intr
+31                   demo:endcap:natural:fitness -0.000023  0.984  False  intr
+32  demo:sales_rep:endcap:demo13:natural:fitness -0.000034  0.606  False  intr
+33            demo:endcap:demo13:natural:fitness -0.000053  0.892  False  intr
+34          demo:sales_rep:endcap:demo13:natural -0.000061  0.690  False  intr
+35         demo:sales_rep:demo13:natural:fitness -0.000062  0.877  False  intr
+36                demo:sales_rep:natural:fitness -0.000070  0.955  False  intr
+37       sales_rep:endcap:demo13:natural:fitness -0.000083  0.837  False  intr
+38              sales_rep:endcap:natural:fitness -0.000092  0.936  False  intr
+39               sales_rep:endcap:demo13:fitness -0.000100  0.725  False  intr
+40                    demo:endcap:demo13:natural -0.000200  0.826  False  intr
+41                 demo:sales_rep:demo13:fitness -0.000200  0.682  False  intr
+42         demo:sales_rep:endcap:natural:fitness -0.000200  0.437  False  intr
+43                   demo:demo13:natural:fitness -0.000300  0.920  False  intr
+44                 demo:sales_rep:demo13:natural -0.000400  0.684  False  intr
+45                           demo:endcap:fitness -0.000400  0.723  False  intr
+46                           demo:demo13:fitness -0.000400  0.859  False  intr
+47               sales_rep:endcap:demo13:natural -0.000500  0.559  False  intr
+48                      sales_rep:endcap:fitness -0.000600  0.574  False  intr
+49              sales_rep:demo13:natural:fitness -0.000600  0.819  False  intr
+50                        demo:sales_rep:fitness -0.000700  0.568  False  intr
+51                        endcap:natural:fitness -0.000700  0.900  False  intr
+52                      sales_rep:demo13:fitness -0.000800  0.716  False  intr
+53                 endcap:demo13:natural:fitness -0.001400  0.554  False  intr
+54                           demo:demo13:natural -0.001700  0.734  False  intr
+55                                demo13:fitness -0.001700  0.909  False  intr
+56                      sales_rep:demo13:natural -0.002200  0.604  False  intr
+57                         endcap:demo13:natural -0.002700  0.471  False  intr
+58                                endcap:fitness -0.003800  0.479  False  intr
+59                                  demo:fitness -0.004100  0.453  False  intr
+60                        demo13:natural:fitness -0.006400  0.681  False  intr
+61                             sales_rep:fitness -0.007800  0.172  False  intr
+62                                demo13:natural -0.015700  0.500  False  intr
+63                                       fitness -0.044500  0.082  False  pure
