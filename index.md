@@ -1,16 +1,19 @@
-Hello! I'm Devon Ankar. I'm a data science professional with 6 years of experience in data analytics. I am experienced in:
+Data science professional with 7 years of experience in data analytics. I am experienced in:
 
-* **Python** for web scraping, XML parsing, data cleaning/wrangling, analysis, and visualization
-* Using **SQL & Relational Databases** to gather & compile datasets for analysis; data modeling
+* Python for web scraping, automation, XML parsing, data cleaning/wrangling, analysis, and visualization
+* Using SQL & Relational Databases to gather & compile datasets for analysis; data modeling
 * Machine Learning/Statistical Learning, Statistical Analysis & Modeling w/ Python
 
-[Recent Work:](/resume)
+I'm always looking for new innovations to save money and increase efficiency via automation and continuous improvement of processes. There is always a better way!
 
+***
+
+Recent Work:
+
+* Python-based automation of web-based processes, emails, spreadsheet operations, filesystem operations, etc.
 * Wrote Python web scrapers to automatically detect & scrape car dealership information from 200 websites
 * Developed Python algorithm to successfully match 90% of vehicles in dealer inventory systems with their book values
-* Detected 6500+ missing online ads for which customers had paid & created actionable reports
-* Using automatic outreach, connected over 1100 social media users to customized information
-* Rebuilt packaging database & system using SQL & Excel to decrease packaging data errors by 95%
+* Detected 12,000+ missing online ads & created actionable reports for customers
 
 ***
 
