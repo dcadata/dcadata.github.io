@@ -1,5 +1,1 @@
----
-layout: default
----
-
-# under construction
+# Repo for GitHub Pages site. Under construction.
