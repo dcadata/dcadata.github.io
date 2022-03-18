@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/devonankar
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ankar.io
+  * I am devonankar (https://keybase.io/devonankar) on keybase.
+  * I have a public key ASAd-Dr8GLF0jEVKgDLZGKyp7EQ_gCbduJZrVZEpDEBYqgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01201df83afc18b1748c454a8032d918aca9ec443f8026ddb8966b5591290c4058aa0a",
+      "host": "keybase.io",
+      "kid": "01201df83afc18b1748c454a8032d918aca9ec443f8026ddb8966b5591290c4058aa0a",
+      "uid": "87f7026d4d6dfdf50a545f2d7bf5a219",
+      "username": "devonankar"
+    },
+    "merkle_root": {
+      "ctime": 1647620324,
+      "hash": "f7b1cab3ff69ef632e79bce7e615dcfaa919e3c258dbad59dc591ab6f4f885e8f4bb2fd8cf5bcfccbc4ddae8023a51f8c712500571f05f540417ae4c0f4a87ea",
+      "hash_meta": "5c8e0e46b367ec40e3ddefe8343d4454ecc036d509d478a7201a4635d33daf14",
+      "seqno": 22112935
+    },
+    "service": {
+      "entropy": "TVuU9yF4YbJOiq04wmLRVYIv",
+      "hostname": "ankar.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.9.0"
+  },
+  "ctime": 1647620329,
+  "expire_in": 504576000,
+  "prev": "63653a56ffc72caeb2aa05a89a97830581a5ddfdd057c33734c0a580e61c3bb0",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgHfg6/BixdIxFSoAy2RisqexEP4Am3biWa1WRKQxAWKoKp3BheWxvYWTESpcCCsQgY2U6Vv/HLK6yqgWompeDBYGl3f3QV8M3NMClgOYcO7DEIMNPSR/bIcs0DvYb3/1nZXd7j1o0SxJKANrA1+K3vtL0AgHCo3NpZ8RAXJsMRLbrJS3rAIk8CTfhLRdcmPq+7+r6P968I08RXdL6V/KGtJENB5iSE4gKJm3A8G55pC1pjF0NxeMo/7NXBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPMFWBRPv0HLVabqpdbEHrv7Tw5BdyIskXEx7WiEZ7JYo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/devonankar
+
+==================================================================
