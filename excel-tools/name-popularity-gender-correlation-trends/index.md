@@ -12,16 +12,6 @@ layout: nosidebar
 
 ## [Check it out on Google Sheets!](https://docs.google.com/spreadsheets/d/1rswNzKmrvqvopxq0AzBfakaSuRcR1Jhru-6UhUBjX0Q/edit?usp=sharing)
 
-***
-
-## Screenshots:
-
-*Click to enlargen*
-
-|:------|:------|:------|:------|
-[![1](img1.png)](img1.png) | [![2](img2.png)](img2.png) | [![3](img3.png)](img3.png) | [![4](img4.png)](img4.png) |
-
-
 * On main (1st) sheet, enter up to 4 names of interest in the yellow cells (in row 4)
   * Scroll down to look at year-by-year popularity and gender trends
 
