@@ -31,17 +31,17 @@ layout: nosidebar
 
 ## DSE 6000: Computational Platforms for Data Science
 
-* [Assignment 1](/data-science/dse6000-a1-simple-analysis)
+* [Assignment 1](/ms-coursework/dse6000-a1-simple-analysis)
 * [Assignment 2](https://www.dropbox.com/sh/mcljdjkm24tcuxy/AABc5QPpjxqxQI-C7zZNV1BGa?dl=0)
-* [Assignment 3](/data-science/dse6000-a3-pyspark)
-* [Final Project](/data-science/dse6000-scraping-analysis-job-boards)
+* [Assignment 3](/ms-coursework/dse6000-a3-pyspark)
+* [Final Project](/ms-coursework/dse6000-scraping-analysis-job-boards)
 
 ## DSB 6100: Marketing Analytics
 
 Explanatory Modeling for Business Analytics: Goodbelly Case
 
-* [Technical Summary - summary of technical report](/data-science/dsb6100-goodbelly/Goodbelly Technical Summary.pdf) (This portion of the project was originally completed by 3 of my classmates and me in a group of 4. Here, I've condensed my contribution both for the sake of brevity and in the interest of only publishing work I directly completed.)
-* [Things to Improve](/data-science/dsb6100-goodbelly/improve)
+* [Technical Summary - summary of technical report](/ms-coursework/dsb6100-goodbelly/Goodbelly Technical Summary.pdf) (This portion of the project was originally completed by 3 of my classmates and me in a group of 4. Here, I've condensed my contribution both for the sake of brevity and in the interest of only publishing work I directly completed.)
+* [Things to Improve](/ms-coursework/dsb6100-goodbelly/improve)
 * [Code (Python)](https://github.com/dcadata/dcadata.github.io/tree/master/data-science/dsb6100-goodbelly/code) - includes the dataset provided by the instructor
 * [Model Outputs (Text Files)](https://github.com/dcadata/dcadata.github.io/tree/master/data-science/dsb6100-goodbelly/outputs) - details for each model w/ a list of the IVs, R-squared, regression equation, terms with coefficients and p-values
 * [3D Plots](https://github.com/dcadata/dcadata.github.io/tree/master/data-science/dsb6100-goodbelly/plots)
@@ -55,14 +55,14 @@ Explanatory Modeling for Business Analytics: Goodbelly Case
 
 ## DSB 6200: Supply Chain Analytics
 
-* [Final Term Project](/data-science/dsb6200-supply-chain-network-design)
-* [Case Study from Textbook](/data-science/dsb6200-simple-solver-model)
+* [Final Term Project](/ms-coursework/dsb6200-supply-chain-network-design)
+* [Case Study from Textbook](/ms-coursework/dsb6200-simple-solver-model)
 * [Textbook: *Big Data Driven Supply Chain Management* by Nada Sanders](http://books.google.com/books?id=-b2LAwAAQBAJ)
 
 ## DSE 6300: Data Science Apps & Development
 
-* [Can Twitter sentiment predict Bitcoin performance?](/social-media/twitter-sentiment-predict-bitcoin) (Final Term Project)
-* [Recommendation Algorithm Explanations](/data-science/dse6300-appendix/Recommendation Algorithm Explanation.pdf) (Final Term Project - Appendix)
+* [Can Twitter sentiment predict Bitcoin performance?](/twitter-sentiment-predict-bitcoin) (Final Term Project)
+* [Recommendation Algorithm Explanations](/ms-coursework/dse6300-appendix/Recommendation Algorithm Explanation.pdf) (Final Term Project - Appendix)
 * [Useful Online Resources & Tutorials - download as a .zip](https://www.dropbox.com/sh/3opabh03hhlflyt/AAAVv2AuXNSZIc0otHB09UVKa?dl=1)
 * Coming soon: Other Examples
 
@@ -76,4 +76,4 @@ Explanatory Modeling for Business Analytics: Goodbelly Case
 
 ***
 
-[Home](/) > [Back to Data Science Projects](/data-science/) >
+[Home](/) > [Back to MS Coursework](/ms) >

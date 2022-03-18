@@ -65,6 +65,6 @@ By allowing for split quantities, i.e. relaxing binary constraints on Decision V
 
 ***
 
-[Home](/) > [Back to Data Science Projects](/data-science/) >
+[Home](/) > [Back to Data Science Projects](/ms-coursework/) >
 
 [Home](/) > [Back to MS in Data Science Coursework](/ms) >
