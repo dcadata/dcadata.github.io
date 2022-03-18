@@ -1,6 +1,5 @@
 ---
 layout: nosidebar
-redirect_from: "/msdsba"
 ---
 
 # Master of Science in Data Science - Reference Materials
