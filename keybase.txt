@@ -54,3 +54,61 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/devonankar
 
 ==================================================================
+
+
+==================================================================
+https://keybase.io/devonankar
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://dcadata.github.io
+  * I am devonankar (https://keybase.io/devonankar) on keybase.
+  * I have a public key ASAd-Dr8GLF0jEVKgDLZGKyp7EQ_gCbduJZrVZEpDEBYqgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01201df83afc18b1748c454a8032d918aca9ec443f8026ddb8966b5591290c4058aa0a",
+      "host": "keybase.io",
+      "kid": "01201df83afc18b1748c454a8032d918aca9ec443f8026ddb8966b5591290c4058aa0a",
+      "uid": "87f7026d4d6dfdf50a545f2d7bf5a219",
+      "username": "devonankar"
+    },
+    "merkle_root": {
+      "ctime": 1647621151,
+      "hash": "80d9727e8b5b361ff5c0da6fe87122c9bf7e4b90ec2cd7958dd28617ff9fe40551c10354da0bd147f60789dea845cc9d305ed93bbeeb870dbf19e265aaad2925",
+      "hash_meta": "46d90fd9266f97034a3c2ed69d2907a2bb58dcc8f5d8df0e5359c8e1ab9637d0",
+      "seqno": 22113032
+    },
+    "service": {
+      "entropy": "d0icO4IYR4vq2y4w/5ZLrCFX",
+      "hostname": "dcadata.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.9.0"
+  },
+  "ctime": 1647621189,
+  "expire_in": 504576000,
+  "prev": "adcc2cf6fd5179623310212d136b2ab613b278f6388eee573500d7f624688dbd",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgHfg6/BixdIxFSoAy2RisqexEP4Am3biWa1WRKQxAWKoKp3BheWxvYWTESpcCC8Qgrcws9v1ReWIzECEtE2sqthOyePY4ju5XNQDX9iRojb3EIJOfUiyVff4yQejYfEl6zsVsMiXg25AMZkBrX0+CpE4OAgHCo3NpZ8RAetnHQhFcuQDcUfVwD0Q4LwV1H27qyhF1xXmx0odWhhvBPbSk/ObVIZGywBfYnAWm4yvhJeynbgGjEcJQLVslAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEII4ehstayROcC+TJ0f65onXkhlgccg8QarysMQ7NTRS9o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/devonankar
+
+==================================================================
