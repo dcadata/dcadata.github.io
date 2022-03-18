@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: nosidebar
 ---
 
 # Can Twitter sentiment predict Bitcoin performance?
