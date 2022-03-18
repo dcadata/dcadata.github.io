@@ -47,6 +47,4 @@ layout: nosidebar
 
 ***
 
-[Home](/) > [Back to Data Science Projects](/ms-coursework/) >
-
-[Home](/) > [Back to MS in Data Science Coursework](/ms) >
+[Back to MS in Data Science Coursework](/ms)

@@ -42,10 +42,10 @@ Explanatory Modeling for Business Analytics: Goodbelly Case
 
 * [Technical Summary - summary of technical report](/ms-coursework/dsb6100-goodbelly/Goodbelly Technical Summary.pdf) (This portion of the project was originally completed by 3 of my classmates and me in a group of 4. Here, I've condensed my contribution both for the sake of brevity and in the interest of only publishing work I directly completed.)
 * [Things to Improve](/ms-coursework/dsb6100-goodbelly/improve)
-* [Code (Python)](https://github.com/dcadata/dcadata.github.io/tree/master/data-science/dsb6100-goodbelly/code) - includes the dataset provided by the instructor
-* [Model Outputs (Text Files)](https://github.com/dcadata/dcadata.github.io/tree/master/data-science/dsb6100-goodbelly/outputs) - details for each model w/ a list of the IVs, R-squared, regression equation, terms with coefficients and p-values
-* [3D Plots](https://github.com/dcadata/dcadata.github.io/tree/master/data-science/dsb6100-goodbelly/plots)
-* [Predicted vs. Actual Plots](https://github.com/dcadata/dcadata.github.io/tree/master/data-science/dsb6100-goodbelly/predicted_vs_actual)
+* [Code (Python)](https://github.com/dcadata/dcadata.github.io/tree/master/ms-coursework/dsb6100-goodbelly/code) - includes the dataset provided by the instructor
+* [Model Outputs (Text Files)](https://github.com/dcadata/dcadata.github.io/tree/master/ms-coursework/dsb6100-goodbelly/outputs) - details for each model w/ a list of the IVs, R-squared, regression equation, terms with coefficients and p-values
+* [3D Plots](https://github.com/dcadata/dcadata.github.io/tree/master/ms-coursework/dsb6100-goodbelly/plots)
+* [Predicted vs. Actual Plots](https://github.com/dcadata/dcadata.github.io/tree/master/ms-coursework/dsb6100-goodbelly/predicted_vs_actual)
 
 ## DSE 6100: Data Modeling & Management
 
