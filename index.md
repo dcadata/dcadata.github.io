@@ -2,6 +2,14 @@
 layout: nosidebar
 ---
 
+# Devon Ankar | devon@ankar.io
+
+Find me on:  
+[GitHub](https://github.com/dcadata)  
+[LinkedIn](https://www.linkedin.com/in/dankar)  
+[Keybase](https://keybase.io/devonankar)  
+[Twitter](https://twitter.com/@devonankar)
+
 <!-- BEGIN HIGHLIGHTS -->
 
 |[![County-level analysis of GDP and 2020 election results](/thumbs/gdp-county-2020.png)](https://github.com/dcadata/county-gdp-2020-elections)|[![Name trends: are gender-neutral names becoming more common?](/thumbs/names.png)](https://github.com/dcadata/gender-neutral-names)|[![*This American Life* - Link Archive & Unofficial RSS Feed](/thumbs/tal1.png)](https://github.com/dcadata/this-american-life-archive)|
@@ -20,3 +28,5 @@ layout: nosidebar
 |[**MS in Data Science - Reference Materials**](/ms)|[**Can Twitter sentiment predict Bitcoin performance?**](/twitter-sentiment-predict-bitcoin)|[**Supply Chain Network Design Case Study (Coursework)**](/ms-coursework/dsb6200-supply-chain-network-design/)|
 
 <!-- END HIGHLIGHTS -->
+
+Hosted on GitHub Pages. Theme by [orderedlist](https://github.com/orderedlist).
