@@ -4,9 +4,11 @@ layout: nosidebar
 
 # Devon Ankar | devon@ankar.io
 
-
-You can find me on [GitHub](https://github.com/dcadata), [LinkedIn](https://www.linkedin.com/in/dankar), [Keybase](https://keybase.io/devonankar), or [Twitter](https://twitter.com/@devonankar).
-
+Find me on:  
+[GitHub](https://github.com/dcadata)  
+[LinkedIn](https://www.linkedin.com/in/dankar)  
+[Keybase](https://keybase.io/devonankar)  
+[Twitter](https://twitter.com/@devonankar)
 
 <!-- BEGIN HIGHLIGHTS -->
 
