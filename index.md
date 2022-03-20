@@ -26,5 +26,3 @@ You can find me on [GitHub](https://github.com/dcadata), [LinkedIn](https://www.
 |[**MS in Data Science - Reference Materials**](/ms)|[**Can Twitter sentiment predict Bitcoin performance?**](/twitter-sentiment-predict-bitcoin)|[**Supply Chain Network Design Case Study (Coursework)**](/ms-coursework/dsb6200-supply-chain-network-design/)|
 
 <!-- END HIGHLIGHTS -->
-
-Hosted on GitHub Pages. Theme by [orderedlist](https://github.com/orderedlist).
