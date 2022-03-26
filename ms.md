@@ -6,10 +6,6 @@ layout: nosidebar
 
 ## MS in Data Science & Business Analytics, Wayne State University
 
-<!-- - [Program Website](http://engineering.wayne.edu/data-analytics/programs/ms.php) -->
-
-<!-- Wayne State University Master of Science in Data Science and Business Analytics, MSDSBA, Master of Engineering, Master of Business Programs -->
-
 **This resource is provided only as a reference for future students.** Not all courses (or even all courses I personally took) are included here.
 
 ***
