@@ -63,10 +63,6 @@ Explanatory Modeling for Business Analytics: Goodbelly Case
 
 ***
 
-**Contact:** [devon@ankar.io](mailto:devon@ankar.io)
-
-***
-
 **Last Updated:** May 8, 2019
 
 ***
