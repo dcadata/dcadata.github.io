@@ -28,7 +28,7 @@ layout: nosidebar
 ## DSE 6000: Computational Platforms for Data Science
 
 * [Assignment 1](/ms-coursework/dse6000-a1-simple-analysis)
-* [Assignment 2](https://www.dropbox.com/sh/mcljdjkm24tcuxy/AABc5QPpjxqxQI-C7zZNV1BGa?dl=0)
+* [Assignment 2](/ms-coursework/dse6000-a2-solr)
 * [Assignment 3](/ms-coursework/dse6000-a3-pyspark)
 * [Final Project](/ms-coursework/dse6000-scraping-analysis-job-boards)
 
