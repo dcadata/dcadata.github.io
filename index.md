@@ -6,11 +6,12 @@ layout: nosidebar
 
 Data science professional and problem solver with 8 years of experience.
 
-My skills include:  
-Designing and building custom robotics systems for process automation ("bots")  
-Web scraping, automated data collection, automated data entry  
-Data science, analytics, ML, extracting actionable findings from data  
-Continuous improvement, finding cost savings opportunities
+My skills include:
+
+- Designing and building custom robotics systems for process automation ("bots")
+- Web scraping, automated data collection, automated data entry
+- Data science, analytics, ML, extracting actionable findings from data
+- Continuous improvement, finding cost savings opportunities
 
 Experienced in Python and SQL. Knowledge of a variety of concepts/libraries: APIs; JSON/XML/YAML parsing; ETL/ELT; data cleaning/wrangling; data modeling; OOP; Pandas, Numpy, Requests, BeautifulSoup, Selenium, SQLAlchemy/Sqlite, Scikit, Scipy, NLTK, Matplotlib, Seaborn
 
