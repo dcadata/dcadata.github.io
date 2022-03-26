@@ -59,7 +59,7 @@ Explanatory Modeling for Business Analytics: Goodbelly Case
 
 * [Can Twitter sentiment predict Bitcoin performance?](/twitter-sentiment-predict-bitcoin) (Final Term Project)
 * [Recommendation Algorithm Explanations](/ms-coursework/dse6300-appendix/Recommendation Algorithm Explanation.pdf) (Final Term Project - Appendix)
-* Coming soon: Other Examples
+* [My (crappy) examples](/ms-coursework/dse6300-my-crappy-examples)
 
 ***
 
