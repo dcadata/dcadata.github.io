@@ -4,24 +4,9 @@ layout: nosidebar
 
 # Devon Ankar | devon@ankar.io
 
-Data science professional and problem solver with 8 years of experience.
 
-My skills include:  
-Designing and building custom robotics systems for process automation ("bots")  
-Web scraping, automated data collection, automated data entry  
-Data science, analytics, ML, extracting actionable findings from data  
-Continuous improvement, finding cost savings opportunities
+You can find me on [GitHub](https://github.com/dcadata), [LinkedIn](https://www.linkedin.com/in/dankar), [Keybase](https://keybase.io/devonankar), or [Twitter](https://twitter.com/@devonankar).
 
-Experienced in Python and SQL. Knowledge of a variety of concepts/libraries: APIs; JSON/XML/YAML parsing; ETL/ELT; data cleaning/wrangling; data modeling; OOP; Pandas, Numpy, Requests, BeautifulSoup, Selenium, SQLAlchemy/Sqlite, Scikit, Scipy, NLTK, Matplotlib, Seaborn
-
-***
-
-[GitHub](https://github.com/dcadata)  
-[LinkedIn](https://www.linkedin.com/in/dankar)  
-[Keybase](https://keybase.io/devonankar)  
-[Twitter](https://twitter.com/@devonankar)
-
-***
 
 <!-- BEGIN HIGHLIGHTS -->
 
