@@ -2,6 +2,10 @@ Notifies user of changes in 538 forecasts and generic ballot
 /thumbs/fox.png
 https://github.com/dcadata/fivey-is-an-emotional-fox
 
+Notifies specified Michigan voter of status changes
+/thumbs/michigan.png
+https://github.com/dcadata/michigan-voter-status
+
 County-level analysis of GDP and 2020 election results
 /thumbs/gdp-county-2020.png
 https://github.com/dcadata/county-gdp-2020-elections
@@ -53,7 +57,3 @@ MS in Data Science - Reference Materials
 Can Twitter sentiment predict Bitcoin performance?
 /thumbs/twitter-bitcoin.png
 /twitter-sentiment-predict-bitcoin
-
-Supply Chain Network Design Case Study (Coursework)
-/thumbs/scmap.png
-/ms-coursework/dsb6200-supply-chain-network-design/
