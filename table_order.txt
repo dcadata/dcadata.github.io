@@ -1,3 +1,7 @@
+Notifies user of changes in 538 forecasts and generic ballot
+/thumbs/fox.png
+https://github.com/dcadata/fivey-is-an-emotional-fox
+
 County-level analysis of GDP and 2020 election results
 /thumbs/gdp-county-2020.png
 https://github.com/dcadata/county-gdp-2020-elections
@@ -33,10 +37,6 @@ https://github.com/dcadata/michigan-district-partisanship-index/tree/master/_oak
 U.S. House: Do moderates come from swing districts?
 /thumbs/2018-midterms1.png
 /elections-2018/
-
-Was 2018 "the Year of the Woman"? Electoral performance & gender
-/thumbs/2018-midterms3.png
-/elections-2018/women-candidates-emily-susan
 
 Data Collection for VA Resource Allocation Study
 /thumbs/va-resource.png
