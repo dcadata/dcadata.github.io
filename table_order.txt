@@ -46,6 +46,10 @@ U.S. House: Do moderates come from swing districts?
 /thumbs/2018-midterms1.png
 /elections-2018/
 
+Was 2018 "the Year of the Woman"? Electoral performance & gender
+/thumbs/2018-midterms3.png
+/elections-2018/women-candidates-emily-susan
+
 Data Collection for VA Resource Allocation Study
 /thumbs/va-resource.png
 https://github.com/dcadata/va-resource
@@ -61,3 +65,7 @@ MS in Data Science - Reference Materials
 Can Twitter sentiment predict Bitcoin performance?
 /thumbs/twitter-bitcoin.png
 /twitter-sentiment-predict-bitcoin
+
+Supply Chain Network Design Case Study (Coursework)
+/thumbs/scmap.png
+/ms-coursework/dsb6200-supply-chain-network-design/
