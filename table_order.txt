@@ -1,3 +1,7 @@
+FiveThirtyEight vs. PredictIt
+/thumbs/fivethirtyeight-vs-predictit.png
+https://ankar.io/fivethirtyeight-vs-predictit/
+
 Notifies user of changes in 538 forecasts and generic ballot
 /thumbs/fox.png
 https://github.com/dcadata/fivey-is-an-emotional-fox
