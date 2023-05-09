@@ -14,8 +14,8 @@ County-level analysis of GDP and 2020 election results
 /thumbs/gdp-county-2020.png
 https://github.com/dcadata/county-gdp-2020-elections
 
-Name trends: are gender-neutral names becoming more common?
-/thumbs/names.png
+Are gender-neutral names becoming more common? (Yes)
+/thumbs/gender-neutral-names.png
 https://github.com/dcadata/gender-neutral-names
 
 *This American Life* - Link Archive & Unofficial RSS Feed
