@@ -1,7 +1,3 @@
-2022 Congressional elections: Democratic turnout collapse, by CD
-/thumbs/2022-congressional-performance-diff-turnout.png
-https://github.com/dcadata/2022-congressional-performance-by-region/blob/main/DifferentialTurnout.ipynb
-
 2022 Congressional elections: effect of candidate gender
 /thumbs/2022-congressional-performance-gender.png
 https://github.com/dcadata/2022-congressional-performance-by-region/blob/main/ByGender.ipynb
@@ -9,6 +5,10 @@ https://github.com/dcadata/2022-congressional-performance-by-region/blob/main/By
 Congressional performance by region in the 2022 midterms
 /thumbs/2022-congressional-performance-region.png
 https://github.com/dcadata/2022-congressional-performance-by-region/blob/main/ByRegion.ipynb
+
+2022 Congressional elections: Democratic turnout collapse, by CD
+/thumbs/2022-congressional-performance-diff-turnout.png
+https://github.com/dcadata/2022-congressional-performance-by-region/blob/main/DifferentialTurnout.ipynb
 
 FiveThirtyEight vs. PredictIt: find profit opportunities on the prediction market
 /thumbs/fivethirtyeight-vs-predictit.png
