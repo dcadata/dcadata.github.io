@@ -12,7 +12,7 @@ end_marker = '\n\n<!-- END HIGHLIGHTS -->'
 files_to_update = (
     'index.md',
     '404.md',
-    'sample.md',
+    'preview.md',
 )
 
 order_text = open('table_order.txt').read()
